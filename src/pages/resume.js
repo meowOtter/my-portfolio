@@ -1,3 +1,5 @@
+import "./resume.css";
+
 export const Resume = () => {
 	const linkedinURL = "https://www.linkedin.com/in/angie-to/";
 	const linkedinURLComponent = (
